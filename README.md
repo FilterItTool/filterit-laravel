@@ -1,4 +1,5 @@
-This is the Laravel backend implementation for the [filterit-ts ↗](https://github.com/FilterIt/filterit-ts) library,
+# FilterIt Laravel
+This is the Laravel backend implementation for the [filterit-ts ↗](https://github.com/FilterItTool/filterit-ts) library,
 which provides a query builder for TypeScript and JavaScript.
 
 ## Installation
@@ -33,8 +34,8 @@ class UserController extends BaseController
 ```
 
 ## What is FilterIt?
-Please refer to [About](https://github.com/FlterIt/FilterIt) for more information.
+Please refer to [About](https://github.com/FlterItTool/FlterItTool) for more information.
 
 ## License
 
-The laravel-filterit is open-sourced software licensed under the MIT license.
+The filterit-laravel is open-sourced software licensed under the MIT license.
