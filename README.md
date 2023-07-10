@@ -32,6 +32,9 @@ class UserController extends BaseController
 }
 ```
 
-# License
+## What is FilterIt?
+Please refer to [About](https://github.com/FlterIt/FilterIt) for more information.
+
+## License
 
 The laravel-filterit is open-sourced software licensed under the MIT license.
